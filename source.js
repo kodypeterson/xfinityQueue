@@ -5,4 +5,5 @@
   var loadCSS = function(){
 
   }
+  alert('loaded');
 })()
